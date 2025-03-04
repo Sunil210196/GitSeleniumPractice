@@ -30,6 +30,7 @@ public class FirstProg {
 				System.out.println(text);
 				driver.findElements(By.xpath("//button[text()='ADD TO CART']")).get(i).click();
 				break;
+				
 			}
 			
 			
